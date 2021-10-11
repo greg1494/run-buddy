@@ -71,5 +71,5 @@ footer a {
 
 section {
     padding: 60 px;
-    background-image: url(assests\images\hero-bg.jpg);
+    background-image: url("assests\images\hero-bg.jpg");
 }
