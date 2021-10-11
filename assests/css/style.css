@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 0px;
     box-sizing: border-box;
 }
 
@@ -67,4 +67,9 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60 px;
+    background-image: url(assests\images\hero-bg.jpg);
 }
